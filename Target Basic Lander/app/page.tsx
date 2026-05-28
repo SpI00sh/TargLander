@@ -92,7 +92,7 @@ export default function LandingPage() {
 
           {/* Headline */}
           <h1 className="text-center text-2xl font-bold text-gray-900 mb-4 leading-tight">
-            Get a <span className="text-[#CC0000]">$750</span> discount on all products at Target today
+            Get a <span className="text-[#CC0000]">$750</span> discount on all products at Target
           </h1>
 
           {/* Subtext */}
